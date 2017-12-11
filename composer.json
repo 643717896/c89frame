@@ -1,0 +1,13 @@
+{
+    "name": "643717896/c89frame",
+    "description": "frame框架系统",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xuelei",
+            "email": "643717896@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
